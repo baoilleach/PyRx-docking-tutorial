@@ -78,7 +78,7 @@ Part 2 Exercise 1
     * Right-click in the Ligands folder, and choose Refresh
     * The list of ligands should appear
 
-.. _here: _static/3d.sdf
+.. _here: _static/3D.sdf
 
 Part 2 Exercise 2
 -----------------
